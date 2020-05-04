@@ -5,7 +5,11 @@ Daedalus X64 is a Nintendo 64 emulator originally for Linux and PSP. This reposi
 ## Compatibility List
  
 A compatibility list can be found on [this GitHub repository](https://github.com/Rinnegatamante/DaedalusX64-vitaGL-Compatibility/issues). Contributions are very welcome. There's also an interactive website using this data available [on this link](https://daedalusx64.rinnegatamante.it/).
- 
+
+## Rom File Location
+
+Place rom files in data/Daedalusx64/roms/ on the PS Vita for Daedalus X64 to see available roms to play.
+
 ## Discord Server
 
 You can head to Vita Nuova discord server to get help with DaedalusX64-vitaGL. We have a dedicated channel (#daedalus-x64) for discussing futur developments, suggesitons, help, etc.
